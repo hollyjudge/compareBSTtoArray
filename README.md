@@ -3,6 +3,7 @@ The goal of this assignment is to compare the Binary Search Tree with a traditio
 
 
 EXPERIMENTATION DESCRIPTION
+
 The goal of the experiment was to prove that a binary search tree requires more comparison operations (and therefore takes a longer amount of time) to insert objects/variables than an array, however the binary search tree requires far less comparison operations (and therefore is far quicker) in finding something within the tree than an array is at finding something within the array.
 The key to my implementation of the experiment was the creation of a python script and an Experiment class. However, before this, I created 10 text files that were subsets of the original oklist.txt. The text files were of n=500, n=1000, n=1500, n=2000, n=2500, n=3000, n=3500, n=4000, n=4500 and n=5000 data items. All data entries within each subset were unique.
 
